@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("ImagingSolution.Mat class")]
-[assembly: AssemblyDescription("ImagingSolution.Mat class")]
+[assembly: AssemblyTitle("ImagingSolution.Mat class sample")]
+[assembly: AssemblyDescription("ImagingSolution.Mat class sample")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ImagingSolution")]
-[assembly: AssemblyProduct("ImagingSolution.Mat")]
+[assembly: AssemblyProduct("ImagingSolution.Mat class sample")]
 [assembly: AssemblyCopyright("Copyright © ImagingSolution. 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-[assembly: Guid("c6801e61-33ae-46f7-b5c5-24dd421e18db")]
+[assembly: Guid("f8a3caf5-e2ea-4d33-9138-c73447d262b9")]
 
 // アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //

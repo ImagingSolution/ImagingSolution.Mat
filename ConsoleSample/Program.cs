@@ -13,15 +13,16 @@ namespace ConsoleSample
     {
         static void Main(string[] args)
         {
-            // 行列(matA)の設定（二次元配列で行列を設定）
-            var matA = new double[,] {
-                { 1, 2, 3 },
-                { 4, 5, 6 },
-                { 7, 8, 9 }
-            };
+
+            // 行列(matA)の設定例（二次元配列で行列を設定）
+            var matA = new double[3, 3];
+            matA[0, 0] = 1; matA[0, 1] = 2; matA[0, 2] = 3;
+            matA[1, 0] = 4; matA[1, 1] = 5; matA[1, 2] = 6;
+            matA[2, 0] = 7; matA[2, 1] = 8; matA[2, 2] = 9;
+
             matA.Print("matA =");　// コンソールへ行列の表示
 
-            // 行列(matB)の設定
+            // 行列(matB)の設定例
             var matB = new double[,] {
                 { 1, 4, 8 },
                 { 6, 2, 5 },

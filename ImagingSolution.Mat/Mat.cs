@@ -309,7 +309,7 @@ namespace ImagingSolution
         /// <typeparam name="T">数値型を指定します。</typeparam>
         /// <param name="mat">行列（二次元配列）を指定します。</param>
         /// <returns>matがコピーされた行列</returns>
-        public static T[,] Clone<T>(T[,] mat) where T : struct
+        public static T[,] CloneMat<T>(this T[,] mat) where T : struct
         {
             if (mat == null) ThrowException("Clone", "mat != null");
 
@@ -445,7 +445,7 @@ namespace ImagingSolution
 
             int size = mat.GetLength(0);
 
-            var m = Clone(mat);
+            var m = mat.CloneMat();
             var m_inv = new double[size, size];
 
             double det;

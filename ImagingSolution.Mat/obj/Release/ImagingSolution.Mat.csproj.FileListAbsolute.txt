@@ -1,0 +1,4 @@
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ImagingSolution.Mat\bin\Release\ImagingSolution.Mat.dll
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ImagingSolution.Mat\bin\Release\ImagingSolution.Mat.pdb
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ImagingSolution.Mat\obj\Release\ImagingSolution.Mat.dll
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ImagingSolution.Mat\obj\Release\ImagingSolution.Mat.pdb

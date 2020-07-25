@@ -1,0 +1,8 @@
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\bin\Release\ConsoleSample.exe.config
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\bin\Release\ConsoleSample.exe
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\bin\Release\ConsoleSample.pdb
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\bin\Release\ImagingSolution.Mat.dll
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\bin\Release\ImagingSolution.Mat.pdb
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\obj\Release\ConsoleSample.csprojResolveAssemblyReference.cache
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\obj\Release\ConsoleSample.exe
+D:\VSTS\ImagingSolution.Mat\ImagingSolution.Mat\ConsoleSample\obj\Release\ConsoleSample.pdb
